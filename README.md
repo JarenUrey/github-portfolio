@@ -1,12 +1,12 @@
 # Game Developer
 
-###Education
+### Education
 Computer Science, Bachelor
 
-###Work Experience
+### Work Experience
 Job 1
 -Project 1
 -Project 2
 
-###Projects
+### Projects
 Soverign
