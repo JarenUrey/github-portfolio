@@ -10,3 +10,4 @@ Job 1
 
 ### Projects
 Soverign
+![Thumbnail](assets/pic-1.png)
